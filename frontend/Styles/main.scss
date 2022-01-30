@@ -1,0 +1,112 @@
+body {
+  background-color: rgb(52, 61, 77);
+    margin: 0;
+    padding: 0;
+  }
+  
+  .card {
+    border: 1px black solid;
+  }
+  
+  .card-header {
+    background-color: black;
+    color: whitesmoke;
+  }
+  
+  .form-control {
+    border: 1px black solid;
+  }
+  
+  .form-check {
+    display: block;
+    margin: 10px 0px 10px 0px;
+  }
+  
+  .adoptDate .startDate{
+  margin: 100px;
+  }
+  
+  .rentalForms {
+    margin: 1% 25%;
+  }
+  
+  .formInput{
+    width: 50%;
+  }
+  
+  .formSubmit {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    margin: 10px;
+  }
+  
+  .hero {
+    background-color: rgba(11, 17, 3, 0.3);
+    background-blend-mode: darken;
+    width: 50%;
+    display: block;
+    margin: 30px 25% 0px 25%;
+    border-radius: 50%;
+    border: 2px black solid;
+    box-shadow: 5px 5px #222;
+  }
+  
+  .header {
+  font-family: "Homenaje",sans-serif;
+    display: block;
+    text-align: center;
+    margin: 40px 5px;
+  
+  }
+  
+  .homeText{
+  font-family: "Homenaje",sans-serif;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+    margin: 40px 300px;
+  }
+  
+  .hide{
+    display: none;
+  }
+  
+  .editBtn {
+    margin-top: 40%;
+  }
+
+  .deleteBtn{
+    margin-top: 30%;
+  }
+  
+  .updateBtn {
+    width:45%;
+    font-family: "Homenaje",sans-serif;
+  }
+
+  .modal-footer{
+    width: 50%;
+  }
+
+  .formHeader, .input{
+    font-family: "Homenaje",sans-serif;
+    color: whitesmoke;
+    margin: 7px;
+  }
+
+  .register, .addForm{
+    font-family: "Homenaje",sans-serif;
+    background-color: rgba(0, 0, 0, 0.5);
+      border-style: solid;
+      border-width: 0.15rem;
+      border-color: black;
+      box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+  }
+
+  .tableHeader, .animalName, .animalAttr {
+    font-family: "Homenaje",sans-serif;
+    color: whitesmoke;
+  }
+  
